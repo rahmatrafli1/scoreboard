@@ -8,3 +8,5 @@ build
 yarn-error.log
 coverage
 .DS_Store
+*-lock.json
+*.env
